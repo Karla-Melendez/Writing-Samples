@@ -1,8 +1,8 @@
 (Work in progress)
-# Karla Melendez -  Writing Portfolio
-Bilingual Technical Writer | Copyeditor | EN↔ES Translator
-20+ years of experience | B.Sc. Computing Science
+# Karla Melendez - Technical Writing Portfolio
+Bilingual Technical Writer | 20+ years of experience | B.Sc. Computing Science
 
 ---
 
-##Technical Writing
+## Writing Samples
+### Software Documentation
