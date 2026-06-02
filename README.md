@@ -26,7 +26,7 @@ The samples below represent a cross-section of my technical writing work across 
 
 ## Knowledge Base Articles
 
-- [Contact Center - Agent & Supervisor Experience: Interaction Workflows (Voice)](./Contact-Center-Agent-and-Supervisor-Experience-Interaction-Workflows-Voice) <br />
+- [Contact Center - Agent & Supervisor Experience: Interaction Workflows (Voice)](./Contact-Center-Agent-and-Supervisor-Experience-Interaction-Workflows-Voice.pdf) <br />
   Procedural article documenting voice interaction workflows for contact center agents and supervisors. Covers end-to-end handling processes.
 
 - [Contact Center - AI Agent Assist: Overview & FAQ](./Contact-Center-AI-Agent-Assist-Overview-and-FAQ.pdf) <br />
