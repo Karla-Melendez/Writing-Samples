@@ -23,4 +23,19 @@ The samples below represent a cross-section of my technical writing work across 
 - [User Guide - Accounting Software] (./User-Guide-Accounting-Software.pdf) <br />
   Excerpt from a user guide for an accounting software module. Written for software users with varying levels of proficiency.
 
-### Software Documentation
+---
+
+## Knowledge Base Articles
+
+- [Contact Center - Agent & Supervisor Experience: Interaction Workflows (Voice)] (./Contact-Center-Agent-and-Supervisor-Experience-Interaction-Worflows-Voice) <br />
+  Procedural article documenting voice interaction workflows for contact center agents and supervisors. Covers end-to-end handling processes.
+
+- [Contact Center - AI Agent Assist: Overview & FAQ] (./Contact-Center-AI-Agent-Assist-Overview-and-FAQ.pdf) <br />
+  Overview and FAQ article for an AI-powered agent assistance feature. Written for agents and supervisors unfamiliar with the AI-assisted workflow.
+
+- [Contact Center - Transcription and Insights: Getting Started] (./Contact-Center-Transcription-and-Insights-Getting-Started.pdf) <br />
+  Getting started guide for a transcription and conversation analytics feature. Written for administrators enabling the feature for the first time.
+
+---
+
+*Samples are provided for portfolio purposes.*
