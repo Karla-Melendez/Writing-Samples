@@ -35,6 +35,12 @@ The samples below represent a cross-section of my technical writing work across 
 - [Contact Center - Transcription and Insights: Getting Started](./Contact-Center-Transcription-and-Insights-Getting-Started.pdf) <br />
   Getting started guide for a transcription and conversation analytics feature. Written for administrators enabling the feature for the first time.
 
+- [Contact Center - Omnichannel: Configure Routing Using Flows, Rule Sets, and Flow Assignments](./Contact-Center-Omnichannel-Configure-Routing-Using-Flows-Rule-Sets-and-Flow-Assignments.pdf) <br />
+  Configuration guide for setting up omnichannel routing logic within a cloud-based contact center platform. Covers building and managing flows, defining rule sets, and assigning them to specific queues.
+
+- [Contact Center - AI Intent Routing (Voice): Build & Configure](./Contact-Center-AI-Intent-Routing-Voice-Build-and-Configure.pdf) <br />
+  Configuration guide for implementing AI-powered intent-based routing for voice interactions. Covers setting up the intent recognition manager and business function to route calls based on detected caller intent.
+
 ---
 
 *Samples are provided for portfolio purposes.*
