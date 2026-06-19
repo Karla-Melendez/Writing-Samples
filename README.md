@@ -41,6 +41,19 @@ The samples below represent a cross-section of my technical writing work across 
 - [Contact Center - AI Intent Routing (Voice): Build & Configure](./Contact-Center-AI-Intent-Routing-Voice-Build-and-Configure.pdf) <br />
   Configuration guide for implementing AI-powered intent-based routing for voice interactions. Covers setting up the intent recognition manager and business function to route calls based on detected caller intent.
 
+### WhatsApp Integration Series
+
+Three-part integration guide for connecting WhatsApp to a cloud-based contact center platform via MessageBird and Bird. Read in sequence for the full integration workflow.
+
+- [Contact Center — WhatsApp Integration, Part 1](./Contact-Center-WhatsApp-Integration-Pt1.pdf) <br /> 
+  Step-by-step guide for completing the WhatsApp integration within Contact Center. Covers the end-to-end integration process.
+
+- [Contact Center — WhatsApp Integration, Part 2 — MessageBird](./Contact-Center-WhatsApp-Integration-Pt2-MessageBird.pdf) <br />
+  Pre-integration setup guide for MessageBird. Covers the configuration steps required in MessageBird before completing the WhatsApp integration.
+
+- [Contact Center — WhatsApp Integration, Part 3 — Bird](./Contact-Center-WhatsApp-Integration-Pt3-Bird.pdf) <br />
+  Pre-integration setup guide for Bird. Covers the configuration steps required in Bird before completing the WhatsApp integration.
+  
 ---
 
 *Samples are provided for portfolio purposes.*
