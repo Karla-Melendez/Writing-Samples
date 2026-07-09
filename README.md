@@ -41,7 +41,7 @@ The samples below represent a cross-section of my technical writing work across 
 - [Contact Center - AI Intent Routing (Voice): Build & Configure](./Contact-Center-AI-Intent-Routing-Voice-Build-and-Configure.pdf) <br />
   Configuration guide for implementing AI-powered intent-based routing for voice interactions. Covers setting up the intent recognition manager and business function to route calls based on detected caller intent.
 
-- [Unite, Teams, and Contact Center - UC+CC: Real-Time Dashboards](./Unite-Teams-Contact-Center-UC-CC-Real-Time-Dashboards.pdf) <br />  
+- [Unite, Teams, and Contact Center - UC+CC: Real-Time Dashboards](./Unite-Teams-Contact-Center-UC-CC-Real-Time-Dashboards.pdf) <br />
   User guide for supervisors on using the Real-Time Dashboards feature of the integrated Unified Communications and Contact Center system. Written for supervisor roles managing live contact center and UC activity.
 
 ### WhatsApp Integration Series
