@@ -1,7 +1,7 @@
 # Karla Melendez - Technical Writing Portfolio
 
 Bilingual Technical Writer | 20+ years of experience | B.Sc. Computing Science <br />
-kemh.to@gmail.com | [LinkedIn] (https://www.linkedin.com/in/karlaemelendez/)
+kemh.to@gmail.com | [LinkedIn](https://www.linkedin.com/in/karlaemelendez/) | [GitHub Pages](https://karla-melendez.github.io)
 
 ---
 
